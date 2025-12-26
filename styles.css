@@ -1,0 +1,40 @@
+/* css styles */
+body {
+    font-family: 'TeX Gyre Heros', sans-serif;
+    /* color: #000 !important; */
+  }
+
+  a {text-decoration: none; }
+
+/* Ensure print media is in black and white, except for links */
+@media print {
+    * {
+      color: #000 !important;
+      background: #fff !important;
+    }
+  
+    a {
+      color: rgb(78, 78, 212) !important; /* Set link color to blue for print */
+    }
+  
+    img {
+      -webkit-print-color-adjust: exact;
+      print-color-adjust: exact;
+    }
+
+    .navbar {
+        display: none !important; /* Hide the navbar in print */
+      }
+    
+    footer {
+        display: none !important; /* Hide the navbar in print */
+      }  
+
+      a[href]::after {
+        content: none !important;
+      }
+    
+      .link-external::after {
+        display: none !important;
+      }  
+  }
