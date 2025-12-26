@@ -1,0 +1,58 @@
+---
+title: Arithmetic Geometry of Feynman Integrals
+---
+
+This will be a hybridized lecture course + seminar series on Feynman integrals.
+
+The course will be taught in the Winter Semester of 2024-25 at the Max Planck Institute for Mathematics in the Sciences, Leipzig. 
+
+To audit the course online, please send me an email at kidambi[AT]duck[dot]com
+
+
+ 
+### Organizational details
+ Website: [Click here](https://www.mis.mpg.de/de/events/event/arithmetic-of-feynman-integrals)
+
+
+### Course schedule
+All lectures will take place at 9:15 AM German time. All lectures will take place in person at the [Max Planck Institute for Mathematics in the Sciences, Inselstrasse 22, 04103 Leipzig](https://maps.app.goo.gl/Ci7DGCmNsQ3wgsnd8). Any deviation from the schedule will be announced.
+
+### Course Outline 
+
+The goal is to build enough background such that one can study the Broadhurst-Kreimer or Brown-Schnetz papers. Meaning that we will focus more on the appearance of multiple zeta zalues in Feynman integrals, periods and their arithmetic geometry. 
+
+However, the arithmetic geometric structure of Feynman integrals goes beyond MZVs, as is recently seen in the Banana graphs where periods of Calabi-Yau motives appear. 
+
+Lecture 1: 21.10.2024: Motivating Feynman integrals and their arithemtic structure <br>
+Lecture 2: 28.10.2024: Graph theory  <br>
+Lecture 3: 4.11.2024: Homology of graphs, Symanzik polynomials, Feynman Graphs <br>
+11.11.2024: **No Lectures** <br>
+18.11.2024: **No Lectures** <br>
+Lecture 4: 25.11.2024: Parametrizations of Feynman integrals from Feynman Graphs, graph hypersurfaces <br>
+Lecture 5: 02.12.2024: Periods and Multiple Zeta Values (MZV's)<br>
+Lecture 7: 09.12.2024: More on MZVs, Broadhurst-Kreimer conjecture, Zagier conjecture <br>
+Lecture 6: 16.12.2024: Singular, Betti and algebraic de Rham cohomology of smooth affine varieties <br>
+Lecture 8: 06.01.2025: Algebraic de Rham cohomology of smooth non-affine varieties, Relative cohomology, comparison isomorphism <br>
+Lecture 9: 13.01.2025: Proof of comparison isomorphism, GAGA theorem, periods revisited<br>
+Lecture 10: 20.01.2025: MZVs as periods, mixed Hodge structures and Mixed Tate Motives over $\mathbb Z$ <br>
+Lecture 11: 27.01.2025: MZVs as periods, mixed Hodge structures and Mixed Tate Motives over $\mathbb Z$ <br>
+Lecture 12: 03.02.2025: The Kontsevich conjecture and disproof (Belkale-Brosnan, Brown-Schnetz) <br>
+
+
+
+
+### Literature
+
+There is no literature source in particular that one should consult. The most comprehensive source is the book by Stefan Weinzierl, which is available on the arxiv: [Feynman Integrals - Stefan Weinzierl](https://arxiv.org/abs/2201.03593). I will base the course roughly around expanding Section 1 of [Feynman integrals and motives](https://arxiv.org/abs/0907.0321) by Matilde Marcolli with a significant amount of arithmetic geometry and number theory. 
+
+If you are interested in learning how other special functions and period integrals appear in Feynman integrals, [Feynman itegrals, toric geometry and mirror symmetry](https://arxiv.org/pdf/1807.11466) by Pierre Vanhove is a good resource. 
+
+### Course Notes
+Still being typeset as a part of a larger series of notes on arithmetic and number theory of Feynman integrals!
+
+Please [email me](mailto:kidambi@duck.com) for a scan of the notes, or for video recordings. 
+
+
+
+
+

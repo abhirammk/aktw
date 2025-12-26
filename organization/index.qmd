@@ -1,0 +1,26 @@
+---
+title: Organization
+permalink: /organization/
+---
+
+As main (co)-organizer. 
+
+
+- [Winter school on number theory and physics](https://indico.ictp.it/event/10965), ICTP Trieste, Nov 2025 <br>
+(w/ A. Kleinschmidt, F. Rodriguez Villegas, A. Salerno, J. Voight) 
+- [School on explicit arithmetic geometry](https://indico.ictp.it/event/10848/overview), ICTP Trieste, July 2025 <br>
+(w/ V. Golyshev, F. Rodriguez Villegas, D. Zagier)
+- [Workshop on explicit arithmetic geometry](https://indico.ictp.it/event/10937/overview), ICTP Trieste, July 2025 <br>
+(w/ V. Golyshev, F. Rodriguez Villegas, D. Zagier)
+- [Computer Algebra, Number Theory and More](https://www.mis.mpg.de/events/series/computer-algebra-number-theory-and-more), Leipzig, March 2025 <br>
+(w/ M. Joswig, B. Sturmfels)
+ -  [Murmurations in arithmetic geometry and related topics](https://scgp.stonybrook.edu/archives/43116), Simons Center, November 2024 <br>
+ (w/ K-H. Lee, Y-H. He, T. Oliver)
+ -  [School on number theory and physics](https://indico.ictp.it/event/10485), ICTP Trieste, June 2024 <br>
+ (w/ V. Golyshev, P. Putrov, F. Rodriguez Villegas)
+ -  [Workshop on number theory and physics](https://indico.ictp.it/event/10637), ICTP Trieste, June 2024 <br>
+ (w/ V. Golyshev, P. Putrov, F. Rodriguez Villegas)
+ -  [Geometry and automorphicity of supersymmetric partitions](https://indico.ipmu.jp/event/412/), Kavli IPMU (U.Tokyo), February 2023 <br>
+ (w/ I. Coman and E. Nardoni)
+ -  [Number theory, strings and quantum physics](https://indico.ipmu.jp/event/387/), Kavli IPMU (U.Tokyo), June 2021 <br>
+ (w/ M. Ashwinkumar and M. Yamazaki)

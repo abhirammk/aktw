@@ -1,0 +1,34 @@
+---
+title: "Research"
+---
+
+
+My PhD dissertation was titled *Automorphic Forms in String Theory: From Moonshine to Wall Crossing*. 
+
+My current research is in physical mathematics and lies on the interface of computation, number theory, algebraic geometry and applications to the natural and applied science, mostly physics (quantum field theories).
+
+The topics I work with include the theory of motives, Hodge theory, zeta/L-functions, automorphic forms, Galois theory, arithmetic statistics, differential equations, special and transcendental functions. I adopt the following research philosophy: 
+
+1. Use physical insight to formally *prove* results in arithmetic geometry. This also means formalizing results in physics, which is not the easiest of things. 
+1. Use tools in arithmetic geometry *correctly* and *rigorously* to study mathematical structures in physical theories. 
+
+## Overview of interests 
+
+I focus on making connections between physics and mathematics *explicit* using a blend of rigorous mathematics, technical computational tools and physical insight/motivation. 
+
+### Mathematics
+
+- Langlands reciprocity beyond $GL_2$ and [Computational aspects of the Langlands program](https://icerm.brown.edu/program/Semester%20Program/sp-f15). This includes:
+    - Computing automorphic and motivic L functions
+    - Arithmetic statistics and distributions of traces of Frobenius
+    - Computational methods for Calabi-Yau varieties and motives, and their arithmetic
+    - Theory of automorphic forms (Mock, Real Analytic, Siegel, Hilbert, Exceptional, Bianchi)
+- Theory of [complex multiplication](https://www.jmilne.org/math/CourseNotes/CM.pdf) of abelian varieties, its generalizations to algebraic varieties
+
+### Physics 
+
+- Arithmetic and motivic structures of Feynman integrals and string amplitudes
+- Mathematical structure of BPS attractor varieties
+- Construction and characterization of rational vertex operator algebras with moduli spaces
+- Enumerative geometry and phenomena like wall crossing, conifold transisitons, flops, jumping
+

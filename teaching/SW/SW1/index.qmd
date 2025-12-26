@@ -1,0 +1,103 @@
+---
+title: Supersymmetric Gauge Theories - 1
+---
+ 
+<h4>Organizational information</h4>
+<p>
+<b>Every Wednesdays, starting 04-October-2017, at 16:00 Hrs at the SEM-138A Freihaus 7th Floor. </b> <br>Please contact Abhiram in case of further information or clarifications. 
+
+<h4>Topics</h4>
+<ol>
+<li> N = 2, d = 4 supersymmetric gauge theories</li>
+<li> Seiberg-Witten theory and exact solutions</li>
+<li> Four manifold invariants</li>
+<li> Dualities in various dimensions </li>
+<li> 6d N = (2,0) superconformal field theories</li>
+</ol>
+
+<h4> Pre-requisites </h4> 
+A good grasp of quantum field theory, differential geometry and supersymmetry is required for this course. Knowledge of conformal field theory is beneficial.   
+
+<h4> List of talks/lectures </h4>
+<p>04.10.2017: Organizational meeting + Introduction to supersymmetry - Abhiram Kidambi</p> 
+<p> 11.10.2017: Non-perturbative aspects of QFT - Florian Hechenberger</p>
+<p> 18.10.2017: N=2 actions - Christoph Roupec</p>
+<p> 25.10.2017: N=2 actions + Twisted N=2 theory - Abhiram Kidambi</p>
+<p style="color:red;"> 01.11.2017: All Souls Day, holiday</p>
+<p> 08.11.2017: Exact solutions to N=2 SU(2) gauge theory - Timm Wrase</p>
+<p> <span style="color:red;"> 15.11.2017:</span> Nekrasov PF and Instanton Counting - Andreas Banlaki <span style="color:red;"> <b>(St. Leopold day, still a working day. Change of time and location: Start at 15:00 sharp, Freihaus, Seminarraum 03 Stock, Gelb)</b> </span>  </p> 
+<p> 22.11.2017: 4-manifold invariants - Frederic Brunner</p>
+<p> 29.11.2017: 4-manifold invariants - Frederic Brunner</p>
+<p> 06.12.2017: Dualities in supersymmetric field theories - Abhishek Chowdhury</p>
+<p> 13.12.2017: Argyres-Douglas theory - Abhishek Chowdhury</p>
+<p> 20.12.2017: AGT correspondence and 2d/4d duality - Abhishek Chowdhury</p>
+<p> 10.01.2018:  6d (2,0) SCFT -I - Marcus Sperling</p>
+<p> 17.01.2018:  6d (2,0) SCFT -II - Johanna Knapp</p>
+<p> 12.02.2018: Seiberg like dualities and their string origin I- Abhiram Kidambi</p>
+<p> 14.02.2018: Seiberg like dualities and their string origin II - Abhiram Kidambi<span style="color:red;"> <b>(Canceled)</b> </span></p>
+<h4> Literature </h4>
+The main literature for this course will be the book by Yuji Tachikawa titled  <a href = "https://arxiv.org/abs/1312.2684" > N=2 dynamics for pedestrians</a>. We will use this book as a skeleton and, as and when required, go over a few topics in more detail. The topics on wall crossing and geometric Langlands are not discussed in the book by Tachikawa and therefore, we have listed a few resources below. The extra references are to be used to supplement the book and are meant to be a further resource which one can consult for clarifications.
+
+<h4> Extra references </h4> 
+
+
+
+<h5> For beginning (N=2) gauge theory and non-perturbative physics </h5>
+
+
+<li> <a href = "https://arxiv.org/abs/1312.2684" > N=2 dynamics for pedestrians</a>(This book will form most of the pedagogical part of the course, both content and structure wise.)</li>
+<li> <a href = "http://www.theory.caltech.edu/~preskill/ph230/index.html"> John Preskill's 'Field Theory and Topology' course @ Caltech </a> (Fantastic lectures!) </li>
+<li> <a href = "http://www.maths.ed.ac.uk/~jmf/Teaching/Lectures/EDC.pdf" > Electromagnetic duality for children</a> </li>
+
+
+<h5> Seiberg-Witten theory </h5>
+
+
+<li> <a href = "https://arxiv.org/abs/hep-th/9407087" >Monopole Condensation, And Confinement In N=2 Supersymmetric Yang-Mills Theory</a></li>
+<li> <a href = "https://arxiv.org/abs/hep-th/9408099" > Monopoles, Duality and Chiral Symmetry Breaking in N=2 Supersymmetric QCD</a></li>
+<li> <a href = "https://arxiv.org/abs/hep-th/9408013" >The Power of Holomorphy - Exact Results in 4D SUSY Field Theories </a></li>
+<li> <a href = "https://arxiv.org/abs/hep-th/0206161" > Seiberg-Witten Prepotential From Instanton Counting
+</a></li>
+<li> <a href = "https://arxiv.org/abs/hep-th/9611190" >Introduction to Seiberg-Witten Theory and its Stringy Origin</a></li>
+<li> <a href = "https://arxiv.org/abs/hep-th/9701069" > Introduction to S-Duality in N=2 Supersymmetric Gauge Theory. (A pedagogical review of the work of Seiberg and Witten)</a></li>
+
+
+<h5> Four manifold invariants </h5>
+
+
+<li> <a href = "https://books.google.at/books/about/The_Geometry_of_Four_manifolds.html?id=LbHmMtrebi4C&redir_esc=y" >The Geometry of Four-manifolds</a></li>
+<li> <a href = "https://arxiv.org/abs/hep-th/9411102" >Monopoles and Four-Manifolds </a></li>
+<li> <a href = "http://www.physics.rutgers.edu/~gmoore/SCGP-FourManifoldsNotes-2017.pdf" > Lectures On The Physical Approach To Donaldson
+And Seiberg-Witten Invariants Of Four-Manifolds by Greg Moore </a> </li> 
+
+
+<h5> \(\mathcal{N} = 1\) Dualities </h5>
+
+<li> <a href = "https://arxiv.org/abs/hep-th/9411149 " > Electric-Magnetic Duality in Supersymmetric Non-Abelian Gauge Theories</a></li>
+<li> <a href = " https://arxiv.org/abs/hep-th/9703215" >IR Duality in d=3 N=2 Supersymmetric USp(2N_c) and U(N_c) Gauge Theories</a></li>
+<li> <a href = " https://arxiv.org/abs/1305.3924">  3d dualities from 4d dualities</a></li>
+<li> <a href = "https://arxiv.org/abs/hep-th/9509066 ">  Lectures on supersymmetric gauge theories and electric-magnetic duality</a></li>
+<li> <a href = " https://arxiv.org/abs/hep-th/9802067"> Brane dynamics and gauge theory</a></li>
+<li> <a href = " https://arxiv.org/abs/hep-th/9611230">  Type IIB Superstrings, BPS Monopoles, And Three-Dimensional Gauge Dynamics</a></li>
+
+
+<h5> 6d (2,0) SCFT </h5>
+
+
+<li> <a href = "http://www.physics.rutgers.edu/~gmoore/FelixKleinLectureNotes.pdf" > Flex Klein lectures by Greg Moore </a></li>
+
+
+<h4> Text books </h4>
+<ol>
+<li> Geometry, Topology and Physics by Nakahara</li>
+<li> Aspects of Symmetry by Sidney Coleman</li>
+<li> Gauge Theory and Variational Principles by David Bleecker</li>
+<li> Supersymmetry and Supergravity by Wess and Bagger</li> </ol>
+<h3> Video lectures </h3> 
+<ol>
+<li> <a href = " https://video.ias.edu/pitp-2010 "> PiTP Princeton 2010</a> (almost all of the topics we will go over in this course are covered fantastically by the experts and developers of said theories.)</li>
+</ol>
+<h4> Lighter reading (but still quite technical) </h4> 
+<ol> 
+<li> The Dawning of Gauge Theory by Lochlainn O'Raifeartaigh</li>
+</ol>

@@ -1,0 +1,52 @@
+---
+title: Computational Number Theory - 1
+---
+
+This course will focus on analytic and arithmetic aspects of number theory. <br>
+The course will be taught in the Winter Semester of 2024-25 at the Max Planck Institute for Mathematics in the Sciences, Leipzig. <br>
+To audit the course online, please send me an email at kidambi[AT]duck[dot]com <br>
+ 
+<h4>Organizational details</h4>
+All lectures will take place at the [Max Planck Institute for Mathematics in the Sciences, Inselstr. 22, 04103 Leipzig](https://maps.app.goo.gl/X3KtQzJkobmCncNaA). <br>
+Lectures will also be streamed via zoom, but not recorded. <br>
+Time and Location: Tuesdays (see below) E1 05 Leibniz Saal at 14:00 <br>
+Any deviation from the course will be announced.
+<br>  **Kindly bring your laptops with you to the course. If you do not have a laptop, let me know.**<br>
+[Course Website](https://www.mis.mpg.de/events/event/computational-number-theory-i)
+
+### Software
+You are free to choose any software/programming you like that you think you can use. I will be using Pari/GP.
+[Installation instructions for Pari/GP](/teaching/CNT24/0-Installing%20Pari.pdf).
+
+<h4>Course schedule</h4>
+Lecture 1, 25.10.2024, 11:00 (E2 10 (Leon Lichtenstein)): [Introduction to computational number theory and Pari/GP]()<br>
+Lecture 2, 29.10.2024, 14:00 (E1 05 (Leibniz-Saal)): Introduction to Pari/GP<br>
+Lecture 3, 05.11.2024, 14:00 (E1 05 (Leibniz-Saal)): Computational algorithms for arithmetic $$\mathbb{Q}$$<br>
+12.11.2024, 14:00 **No lecture** <br>
+19.11.2024: **No lecture** <br>
+Lecture 4, 26.11.2024: 14:00 (G3 10): Computational al;gorithms for arithmetic over $$\mathbb{Q}$$ <br>
+Lecture 5, 03.12.2024, 13:30 (G3 10): Quadratic reciprocity and characters <br>
+Lecture 6, 10.12.2024, 14:00 (G3 10): More on reciprocity and modular forms: Spaces of holomorphic modular forms <br>
+Lecture 7, 17.12.2024, 14:00 (G3 10): Dimensions of modular forms, q-series, and periods of modular forms<br>
+Lecture 8, 07.01.2025, 14:00 (G3 10): L-functions and coding session<br>
+Lecture 9, 14.01.2025, 13:30 (G3 10): L functions of elliptic curves and coding session<br>
+Lecture 10, 21.01.2025, 14:00 (G3 10): L-functions of K3 surfaces and coding session <br>
+Lecture 11, 28.01.2025, 14:00 (G3 10): L-functions of CY manifolds and motives and coding session<br>
+Lecture 12, 04.02.2025, 14:00 (G3 10): Computing motives, final lecture and projects<br>
+##### Update
+
+You can find a calendar under [Teaching](/teaching/).
+
+<h4>Course Notes</h4>
+- [Preparatory Instructions](/teaching/CNT24/0-Installing%20Pari.pdf)
+- Course notes being typset 
+
+<h4>Code Repository</h4>
+You can also access the code from the following GitHub repository. 
+To submit code to this repository (as a part of your homework), please request access from me. 
+
+<h4>Literature</h4>
+
+- Experimental number thoery - Fernando Rodriguez Villegas
+- Chapter 2: <a href="https://link.springer.com/book/10.1007/978-3-662-02945-9">A Course in Computational Algebraic Number Theory</a> - Henri Cohen	
+- <a href="https://link.springer.com/book/10.1007/978-1-4684-9884-4">A course in arithmetic</a> - Jean Pierre Serre

@@ -1,0 +1,67 @@
+project:
+  type: website
+  output-dir: _site
+execute:
+  freeze: auto
+website:
+  title: "Abhiram Kidambi"
+  favicon: images/st.png
+  repo-url: https://atkw.github.io
+  repo-actions: none
+  navbar:
+    left:
+      - href: research/
+        text: Research
+      - href: publications/
+        text: Scientific Work
+      - href: projects/
+        text: Projects & Code        
+      - href: talks/
+        text: Talks
+      - href: teaching/
+        text: Teaching
+      - href: organization
+        text: Organization
+    right:
+      - icon: envelope-at-fill
+        href: mailto:kidambi@duck.com
+      - icon: github
+        href: https://github.com/abhirammk
+      - icon: discord
+        href: https://discord.com/users/abhirammk
+      - text: gScholar
+        href: https://scholar.google.com/citations?user=PfFT3u0AAAAJ
+      - text: arXiv
+        href: https://arxiv.org/search/?query=Kidambi%2C+Abhiram&searchtype=author&abstracts=show&order=-announced_date_first&size=50
+      - text: ZB
+        href: https://zbmath.org/authors/kidambi.abhiram
+
+      - icon: menu-button-wide
+        menu:
+          - text: CY Cluster Zulip
+            href: https://cycluster.zulipchat.com
+          - text: NT Phys Zulip
+            href: https://ntph.zulipchat.com
+  page-footer:
+    left: "Copyright 2025, Abhiram Kidambi. Made with [Quarto](https://github.com/quarto-dev)."
+  page-navigation: true
+  site-url: https://abhirammk.github.io
+format:
+  html:
+    grid:
+      sidebar-width: 300px
+      body-width: 1200px
+      margin-width: 300px
+      gutter-width: 1.5rem
+    theme:
+      light: cosmo
+      dark: superhero
+    css: styles.css
+    toc: true
+    toc-depth: 3
+    toc-expand: true
+    code-fold: true   # Allows readers to toggle code visibility
+    code-copy: true
+    include-in-header:
+      - text: |
+          <link href="https://fonts.cdnfonts.com/css/tex-gyre-heros" rel="stylesheet">

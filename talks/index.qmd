@@ -1,0 +1,137 @@
+---
+title: Talks
+---
+
+A **partial** list of talks is available here, arranged topic wise.
+A slightly more comprehensive, but potentially still-not-up-to-date, list of talks is listed [here](talks.pdf). 
+
+To see talks arranged topicwise, click [here](../talkso/).
+
+
+## Upcoming talks and lectures
+
+1. Computing Sato-Tate groups and distributions (OIST Okinawa, Jan 2026, Remote)
+1. Modularity theorems for certain non-hypergeometric motives (Potsdam, Jan 2026) 
+
+## **School Lectures**
+
+1. K3 surfaces in physics (ICTP Winter School on Number Theory and Physics, November 2025) [[Video Recording](https://video.ictp.it/WEB/2025/2025_11_17-smr4162/2025_11_21-14_00-smr4162.mp4)]
+
+## **Math Seminars and Talks**
+
+Includes workshop talks, conference talks and seminar invites. 
+
+### Number theory/arithmetic geometry
+
+1. Modularity theorems beyond elliptic curves (Tokyo, September 2025)
+1. Introduction to Complex Multiplication (ICTS Bangalore, June 2025)
+1. Arithmetic geometry of rational vertex operator algebras (Mainz, March 2025)
+1. Complex Multiplication: History, Theory, Computation and Application (Mainz, January 2025)
+1. The Siegel-Weil theorem (Vienna, April 2024)
+1.  Rational point counts and Feynman integrals (Leipzig, March 2024)
+1. Algebraic and arithmetic aspects of abelian varieties (Potsdam Math Dept, February 2024)
+1. Introduction to the Birch & Swinnerton-Dyer Conjecture (Cambridge, October 2023)
+1. The Katz-Sarnak Philisophy (Tokyo, April 2023)
+1. Lectures on automorphic forms and L-functions (ICTS Bangalore, April 2023)
+
+
+### Computational number theory/arithmetic geometry
+
+1. Data driven discoveries in modern mathematics (Tokyo, September 2025) 
+1.  Murmurations (Leipzig, March 2024)
+1.  New trends in computational number theory (Eindhoven, December 2024)
+1. Arithmetic statistics of weight 2 Hecke eigencusp forms (Lisbon, October 2024) 
+1. Computational aspects of the Langlands program (Zurich, August 2024)
+1. Hyperelliptic curve invariants, Siegel modular functions and applications (Cambridge, October 2023)
+
+
+
+### Algebraic geometry and representation theory
+
+1. Siegel and mock-modularity of enumerative invariants of K3 surfaces (Mainz, December 2024)
+1. Noether-Lefschetz theory and counting nodal curves on K3 surfaces (Stony Brook, November 2022)  
+1.  Calabi-Yau manifolds and sporadic groups (<a href="https://mathphys.univie.ac.at/seminars/"> University of Vienna</a> and  <a href="https://www.imsc.res.in/cgi-bin/CalciumShyam/Calcium40.pl?Op=PopupWindow&Amount=Week&NavType=Absolute&Type=Block&CalendarName=InstituteEvents&Date=2017/11/30&ID=534&Source=Room318"> IMSc Chennai</a>, November 2017; Indian Institute of Science, December 2017) 
+
+
+## **Math Colloquia**
+1. Advances in computer assisted number theory and arithmetic geometry (Reyjkavik, October 2024)
+1. Data driven discoveries in modern mathematics (Tokyo, September 2025)
+1. New advances in computer assisted number theory and arithmetic geometry (Potsdam, May 2024)
+
+## **Mathematical Physics Seminars and Talks**
+
+Workshop talks and seminars in mathematical physics (mostly on the interface of number theory, arithmetic geometry and physics).
+
+### Eisenstein series 
+
+  1.  Real analytic Eisenstein series in string theory and holography (GGI Florence, May 2024)
+  1. Eisenstein series over generic groups, and physical applications (Uni Vienna, April 2024)
+   1.  <a href="https://blackholes2021.math.tecnico.ulisboa.pt/">Generalized Siegel-Weil theorem and holography</a> (Lisbon, September 2021)
+  1.  Generalized Siegel-Weil formula, 3d Gravity, & Chern-Simons invariants (Vienna, June 2021)
+
+
+### Automorphic forms 
+
+ 1.  Hilbert modular forms, Niemeier Lattices and Octonionic black holes (Trieste, June 2022 + Cornell, November 2022) 
+   1. Application of mock modular forms in string theory (Stony Brook, November 2022)  
+ 
+
+### Periods and Zeta functions
+
+1.  Periods in quantum field theory (IISc Bangalore, June 2025 & Reykjavik, October 2025)
+1.  Modularity and L-values of BPS black holes from arithmetic statistics (AEI Potsdam, December 2024) 
+1. Arithmetic structures in physics (AEI Potsdam, February 2024 + CNRS Montpellier, March 2024)
+1. Zeta and L-functions in physics (Lehigh, November 2022)
+1.  Arithmetic chaos, zeroes of $\zeta(s)$ and topological recursions (TU Wien, September 2019)
+
+
+
+### BPS objects in string theory
+
+
+   1. Gravitational path integrals for N = 4 black holes (IISc Bangalore, April 2023)
+   1. Hilbert modular forms, Niemeier Lattices and Octonionic black holes (Tokyo, May 2022)
+  1.  Origin of mock modular forms in supergravity (Poincare Inst., June 2022, DESY, May 2022 + Munich, Nov2021 + Nagoya October 2021)
+  1. Supersymmetric localization and BPS state counting in SCFTs (IPMU, October 2020)
+  1.  <a href= "https://blackholes.math.tecnico.ulisboa.pt/speakers">Mock modular black hole entropy from half BPS states</a> (<a href = "https://www.youtube.com/watch?v=JYVf2DODpWY">Video file</a>) (<a href="https://blackholes.math.tecnico.ulisboa.pt/">Lisbon</a>, September 2020) 
+1.  1/4 BPS black hole degeneracies from 1/2-BPS black hole degeneracies (Stanford, January 2020 + ICTP, January 2020 + Rutgers March 2020) 
+1.  Number theory and geometry for black holes (Stanford University, Mar 2019) 
+1.  DMZ revisited: Comments on negative discriminat states and exact black hole degeneracies (University of Amsterdam, February 2019) 
+1.  <a href = "http://hep.itp.tuwien.ac.at/moonshine/schedule.html"> Exact entropy and Rademacher series for orbifolded BPS black holes </a> @ <a href = "http://hep.itp.tuwien.ac.at/moonshine/"> Moonshine </a> (ESI Vienna, September 2018) 
+
+
+
+### Vertex operator algebras
+
+1. Rethinking complex multiplication (Bhubaneshwar, December 2025)
+1. When is a vertex operator algebra with an abelian variety target space rational? (ICTS Bangalore, June 2025)
+  1.  An introduction to moonshine and vertex operator algebras (Hannover, April 2022)
+   1. An introduction to topological modular forms, N = 1 VOA’s and error correction codes,
+(Lisbon, Dec 2021 + Vienna, November 2021) 
+
+
+
+
+### Moonshine
+
+
+  1.  <a href="https://sites.google.com/view/mpd20/list-of-talks?authuser=0"> Introduction to moonshine</a> (Istanbul, December 2020)
+1.  The Mathieu 24 group and the elliptic genus of superconformal field theory <a href="https://www.ggi.infn.it/showevent.pl?id=268"> @ Workshop on supersymmetric quantum field theories in the non-perturbative regime</a> (GGI Florence, May 2018) 
+1.   BPS algebras and Moonshine (<a href = "https://math.tecnico.ulisboa.pt/seminars/strings/?action=past">IST Lisbon </a>, October 2018)
+
+
+### Wall crossing
+
+
+  1.  Wall crossing and BPS jumping in string and supersymmetric field theories (TU Wien/Uni Wien, October 2019) 
+     1.  An introduction to wall crossing and Stokes phenomena (Hannover, April 2022)
+     1.  $\Gamma_0(N)$, quantum black holes and wall crossing  (<a href = "https://math.tecnico.ulisboa.pt/seminars/strings/?action=past">IST Lisbon </a>, October 2018) 
+     1.  Dyon wall crossing, automorphic forms and exact entropy of CHL black holes (<a href= "https://indico.mpp.mpg.de/event/6082/">MPP Munich </a>, November 2018)
+
+
+## **Mathematical Physics Colloquia **
+
+1. BPS Partition Functions: From physics, to number theory, to geometry (Hannover, May 2022)
+1. Auguries of Physical Mathematics: What is quantum gravity trying to tell us? (TU Wien, November 2018)
+
+

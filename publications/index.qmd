@@ -1,0 +1,60 @@
+---
+title: Scientific Work
+---
+
+#### Publications and Preprints
+
+- **Elliptic Curves in Game Theory**<br>
+*(w/ E. Neuhaus and I. Portakal)* <br>
+[[arXiv](https://arxiv.org/abs/2501.14612)]   [[pdf](/papers/ecgt.pdf)]
+
+- **Notes on Characterizations of 2d Rational SCFTs: Algebraicity, Mirror Symmetry and Complex Multiplication** <br> _(w/ M. Okada and T. Watari)_<br>
+[[arXiv](https://arxiv.org/abs/2408.00861)]  [[pdf](/papers/notesrcft.pdf)]  [[Journal](https://doi.org/10.1002/prop.202400161)]<br>
+
+
+- **Generalized Narain Theories Decoded: Discussions on Eisenstein series, Characteristics, Orbifolds, Discriminants and Ensembles in any Dimension** <br>
+_(w/. M. Ashwinkumar, J. Leedom and M. Yamazaki)_ <br>
+[[arXiv](https://arxiv.org/abs/2311.00699)]  [[pdf](/papers/decoded.pdf)]  [To appear in ATMP]<br>
+
+
+- **The Gravitational Path Integral for $N=4$ BPS Black Holes from Black Hole Microstate Counting** <br>
+_(w/. G. Cardoso, S. Nampuri, V. Reys, M. Rossello)_ <br>
+[[arXiv](https://arxiv.org/abs/2211.06873)]  [[pdf](/papers/gravpathint.pdf)]  [[Journal](https://doi.org/10.1007/s00023-023-01297-y)] <br>
+
+
+- **Octonionic Magical Supergravity, Niemeier Lattices, and Exceptional & Hilbert Modular Forms** <br> _(w. M. Gunaydin)_ <br>
+[[arXiv](https://arxiv.org/abs/2209.05004)] [[pdf](/papers/oms.pdf)]    [[Journal](https://doi.org/10.1002/prop.202300242)] <br>
+
+- **Towards Hodge Theoretic Characterizations of 2d Rational SCFTs**
+    <br> _(w/ M. Okada and T. Watari)_ <br>
+    [[arXiv](https://arxiv.org/abs/2205.10299)] [[pdf](/papers/hodge.pdf)] <br>
+
+- **Chern-Simons Invariants from Ensemble Averages** <br>
+    _(w/. M. Ashwinkumar, M.Dodelson, J. Leedom and M. Yamazaki)_ <br>  [[arXiv](https://arxiv.org/abs/2104.14710)] [[pdf](/papers/csensembles.pdf)]    [[Journal](https://link.springer.com/article/10.1007/JHEP08(2021)044)] <br>
+
+- **Dyonic black hole degeneracies in $\mathcal N=4$ string theory from Dabholkar-Harvey degeneracies**   <br>
+ _(w/ A. Chowdhury, S. Murthy, V. Reys, T. Wrase)_ <br>
+    [[arXiv](https://arxiv.org/abs/1912.06562)] [[pdf](/papers/dyon.pdf)]   [[Journal](https://link.springer.com/article/10.1007/JHEP10(2020)184)] <br>
+
+- **Heterotic strings on $K3\times T^2$ and their dual Calabi-Yau threefolds**   <br>
+    _(w/ A. Banlaki, A. Chattopadhyaya, T. Schimannek, M. Schimpf)_ <br>
+    [[arXiv](https://arxiv.org/abs/1911.09697)] [[pdf](/papers/k3t2z3.pdf)] [[Journal](https://link.springer.com/article/10.1007/JHEP04(2020)203)]  
+
+- **On Mathieu moonshine and Gromov-Witten invariants**  
+ _(w/ A. Banlaki, A. Chattopadhyaya, T. Schimannek, M. Schimpf)_ <br>
+    [[arXiv](https://arxiv.org/abs/1811.11619)] [[pdf](/papers/gw.pdf)] [[Journal](https://link.springer.com/article/10.1007/JHEP02(2020)082)] <br>   
+
+- **Calabi-Yau manifolds and sporadic groups**   <br>
+    _(w/ A. Banlaki, A. Chowdhury, M. Schimpf, H. Skarke, T. Wrase)_ <br>
+    [[arXiv](https://arxiv.org/abs/1711.09698)] [[pdf](/papers/cymoonshine.pdf)]    [[Journal](https://link.springer.com/article/10.1007/JHEP02(2018)129)] <br> 
+
+
+---
+
+#### Code Repositories
+
+
+- **Elliptic Curves in Game Theory**<br>
+*(w/ E. Neuhaus and I. Portakal)* <br>
+[[Code Repository](https://mathrepo.mis.mpg.de/elliptic_curves_game_theory/)]  [[PDF documentation](../files/ecingt.pdf)]
+

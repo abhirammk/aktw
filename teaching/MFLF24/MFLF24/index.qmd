@@ -1,0 +1,40 @@
+---
+title: Automorphic Forms and L-functions
+---
+ 
+<h4>Organizational details</h4>
+<p><a href="https://www.esi.ac.at/events/e552/">ESI Website</a></p>
+<p><a href="AFLF2024.pdf">Course Announcement</a></p>
+
+<h4>Course schedule</h4>
+<p>
+	Monday, April 8, 2024, 15:00 - 16:30 <br>
+Wednesday, April 10, 2024, 15:00 - 16:30 <br>
+Monday, April 15, 2024, 15:00 - 16:30 <br>
+Wednesday, April 17, 2024, 15:00 - 16:30 <br>
+Monday, April 22, 2024, 15:00 - 16:30<br>
+Wednesday April 24, 2024, 15:00 - 16:30<br>
+Friday, April 26, 2024, 15:00 - 16:30<br>
+Monday, April 29, 2024, 15:00 - 16:30<br>
+</p>
+<h4>Course Outline</h4>
+We will consider the following topics
+<ol>
+	<li>Elliptic functions</li>
+	<li>Elliptic curves</li>
+<li>Elliptic modular forms</li>
+<li>L-functions of modular forms, Dirichlet characters and elliptic curves</li>
+<li>Applications in mathematical problems: Modularity Theorem, Riemann Hypothesis, the Birch & Swinnerton-Dyer conjectures (and  very brief overview of the Langlands program)</li>
+<li>Applications of automorphic forms to physics</li>
+<li>Applications of automorphic forms to computing and cryptography</li>
+</ol>
+<p>This is an introductory course on the theory of automorphic forms and L-functions. These objects play a central role in modern mathematics and are crucial to making progress towards some of the biggest problems in mathematics. For most of the course, we will deal with the simplest automorphic forms viz., modular forms. The course will begin with introducing the theory of elliptic functions and elliptic curves. We will then see how modular forms arise from the theory of elliptic functions. We will then study the key properties of modular forms (the structure of spaces, algebra etc). We will then consider generalizations of modular forms to other abelian varieties. We shall then turn focus to L-functions which we motivate through the theory of Hecke eigenforms. L-functions serve as a bridge between modular forms and arithmetic. Following study of some fundamental properties of L-functions, We shall then consider two kinds of L-functions (the Dirichlet L-functions and L-functions of elliptic curves). 
+
+We shall then spend the final three lectures discussing applications and stating open problems. The open problems we will introduce here are the Riemann Hypothesis, the Birch and Swinnerton-Dyer conjecture. Amongst the applications, we shall consider the relation between Diophantine analysis and the Modularity theorem which solves Fermat’s last theorem by placing the L-functions of elliptic curves and L-functions of certain Hecke eigenforms on the same footing. 
+
+The two lectures on applications will be divided into two: The first being applications in physics. The second being computational. In applications to physics, we shall discuss string amplitudes and BPS partition functions. We shall also go over the case of various moonshine phenomena. In application to computing, we shall consider the application of modular forms and L functions to cryptography and error correcting codes. 
+
+To make calculations faster, some computer algebra such as SageMath, Pari/GP, and/or Mathematical packages will be made available.  
+
+Target audience: Mathematics undergraduate and master's students, PhD candidates/postdocs in mathematical physics and string theory. Those with interests to learn and discuss are also welcome to attend the course. </p>
+

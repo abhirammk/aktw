@@ -1,0 +1,27 @@
+---
+title: "Abhiram Kidambi"
+image: images/moma.jpg
+about:
+  template: solana
+format:
+  html:
+    css: styles.css
+---
+
+My colleagues will classify me as either a mathematician or a mathematical physicist with an inability to be happy unless things are computed explicitly. Personally, I view myself as someone trying to make sense of things.
+
+I love computing and solving all kinds of mathematical problems, and am endlessly fascinated by how mathematics can describe how world around us works. You can learn more about my research here [here](research/).
+
+I am a member of the ERC funded [MaScAmp team](https://www.mascamp.org/) (studying mathematical structures in scattering amplitudes) at the AEI Potsdam and a member of the [Mathematical Strucutres in Physics](https://www.mis.mpg.de/mathematical-structures-physics) group, and an affiliate member of the [Numerical Algebraic Geometry](https://www.mis.mpg.de/numerical-algebraic-geometry) group at the [Max Planck Institute for Mathematics in the Sciences](https://www.mis.mpg.de).
+
+Any and all views expressed on this website are mine and mine alone.
+
+**Best reachable via email:** kidambi\[AT\]duck\[dot\]com
+
+#### (Un)interesting things about me
+
+-   Existentialism and comic nihilism are my dear friends.
+-   I am an adrenaline junkie. I love solo mountaineering and wilderness backpacking.
+-   I am particularly fascinated by (active) volcanoes and enjoy climbing and observing them.
+-   I enjoy playing football, long distance cycling, trail running, surfing and boxing.
+-   I also enjoy nature (landscape and wilderness) photography.

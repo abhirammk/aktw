@@ -1,0 +1,107 @@
+---
+title: Supersymmetric gauge theories - 2
+---
+ 
+<h4>Organizational information</h4>
+<p>
+<b>Every Wednesdays, starting 07-March-2017, at 16:00 Hrs at the Seminar room on the 10th Floor (Yellow tower, Freihaus, TU Wien, Wiedner Hauptstr. 8-10 1040 Vienna). </b> <br>Please <a href="/"> contact</a>  me in case of further information or clarifications. <br>
+
+
+<h4> Topics</h4>
+<ol>
+<li> N = 1 dualities </li>
+<li> N = 2 dualities</li>
+<li> AGT conjecture </li>
+<li> Argyres-Douglas type CFT's</li>
+<li> Class S theories and spectral networks </li>
+<li> Wall crossing phenomena in various dimensions</li>
+<li> Geometric Langlands correspondence</li>
+</ol>
+
+<br>
+<h4> Pre-requisites </h4> 
+A good grasp of quantum field theory, differential geometry and supersymmetry is required for this course. It is beneficial to have attended the first half of the course i.e <a href = "SW1"> supersymmetric gauge theories </a>.
+<br><br>
+
+
+<h4> List of talks/lectures (Tentative) </h4>
+<br>
+
+<p>07.03.2018: Organizational meeting </p>
+<p> 14.03.2018: Seiberg dualities and stringy origin - Abhiram Kidambi - Topics: Moduli spaces of 4d $\mathcal{N} = 1$ theories, 3d reduction and "mirror symmetry"</p>
+<p> 21.03.2018: Higgs branch of SCFT's - Abhishek Chowdhury</p>
+<p> 11.04.2018: Gaiotto duality and $N_f  = 4$ theories - Abhishek Chowdhury <span style="color:red;"> <b>(Postponed due to scheduling complications)</b></span></p>
+<p> 18.04.2018: Argyres-Douglas theory I - Christoph Roupec</p>
+<p> 25.04.2018: Argyres-Douglas theory II - Andreas Banlaki</p>
+<p> 02.05.2018: N = 2 IR dualities I - Abhishek Chowdhury</p>
+<p> 09.05.2018: N = 2 IR dualities II - Marcus Sperling</p>
+<p> 16.05.2018: N = 2 IR dualities III - Johanna Knapp</p>
+<p> 23.05.2018: N = 2 IR dualities IV - Abhiram Kidambi <span style="color:red;"> <b>(Rescheduled from 06.06.2018)</b></span></p>
+<p> 30.05.2018: AGT conjecture I - Timm wrase</p>
+<p> <span style="color:red;"> <b>07.06.2018</b></span>: AGT conjecture II - Timm Wrase</p>
+<p> 13.06.2018: Spectral networks and theories of class S - Abhiram Kidambi</p>
+<p> 20.06.2018: Wall crossing - Abhiram Kidambi</p>
+<p> 27.06.2018: Wall crossing - Abhiram Kidambi </p>
+<br>
+<h4> Literature </h4>
+<br>
+
+<h5> Dualities </h5>
+
+<li> <a href = "http://www.sciencedirect.com/science/article/pii/0370269377900764"> Magnetic monopoles as gauge particles </a> (Original paper, there are many freely accessible books and articles which summarize this paper very well. Please get in touch if you want access to this paper.)
+<li> <a href = "https://inspirehep.net/record/818218?ln=en" > N=2 dualities</a></li>
+<li> <a href = "https://arxiv.org/src/1608.02952/anc/LocQFT.pdf" > Localization Techniques in Quantum Field Theories</a> (Chapter 12)</li> 
+<li> <a href = "https://arxiv.org/abs/0906.3219" > Liouville Correlation Functions from Four-dimensional Gauge Theories</a>(Original AGT paper, for review - see Ch. 12 above)</li>
+
+<h5> Integrability and Localization</h5>
+<li> <a href = "https://arxiv.org/abs/hep-th/9912271" > Lectures on Supersymmetric Yang-Mills Theory and Integrable Systems
+</a></li>
+<li> <a href = "https://arxiv.org/abs/1111.4234"> Notes on supersymmetric and holomorphic field theories in dimensions 2 and 4 </a> </li> 
+<li> <a href = "https://arxiv.org/src/1608.02952/anc/LocQFT.pdf" > Localization Techniques in Quantum Field Theories</a> (Chapters 1 and 3)</li> 
+<li> <a href = "https://arxiv.org/abs/hep-th/9510101"> Supersymmetric Yang-Mills Systems And Integrable Systems</a> </li> 
+
+
+<h5> Argyres-Douglas CFT's </h5> 
+<li> <a href = "https://arxiv.org/abs/1312.2684" > N=2 dynamics for pedestrians</a> </li>
+<li> <a href = "https://arxiv.org/abs/1204.2270">  General Argyres-Douglas Theory </a></li> 
+
+
+
+
+
+
+<h5> Wall crossing </h5> 
+<li> <a href = "http://www.sns.ias.edu/pitp2/2010files/Moore_LectureNotes.rev3.pdf"> PiTP lectures on BPS wall crossing in d=4, N=2 theories by Greg Moore</a> </li> 
+<li> <a href = "http://www.lpthe.jussieu.fr/~pioline/Seminars/TriesteLec.pdf"> ICTP lectures on instantons, wall-crossing
+and hypermultiplet moduli spaces</a> </li> 
+<li> <a href = "https://arxiv.org/abs/1304.7159"> Corfu lectures on wall-crossing, multi-centered black holes, and quiver invariants</a> </li> 
+<li> <a href = "http://people.sissa.it/~cecotti/ictptext.pdf">Trieste Lectures on Wall–Crossing
+Invariants </a> </li> 
+<li> <a href = "https://math.berkeley.edu/~reshetik/CSRL/Yan-Berkeley-2010-2.pdf"> Lectures on motivic Donaldson-Thomas
+invariants and wall-crossing formulas</a> </li> 
+
+
+<h5> Geometric Langlands </h5> 
+<li> <a href = "https://arxiv.org/abs/hep-th/0604151"> Electric-Magnetic Duality And The Geometric Langlands Program
+</a> (Original work, comprehensive) </li> 
+<li> <a href = "https://arxiv.org/abs/0905.2720"> Geometric Langlands From Six Dimensions
+</a> </li> 
+<li> <a href = "https://arxiv.org/abs/0712.0157">Conformal Field Theory In Four And Six Dimensions </a> </li> 
+<li> <a href = "https://arxiv.org/abs/hep-th/0512172"> Lectures on the Langlands Program and Conformal Field Theory </a> </li>
+<li> <a href = "http://www.math.uni-hamburg.de/home/balasubramanian/pages/ggl.html"> Aswin Balasubramanian's page on the Geometric Langlands Correspondence</a> </li> 
+<br>
+<h5> Text books </h5>
+<ol>
+<li> Geometry, Topology and Physics by Nakahara</li>
+<li> Aspects of Symmetry by Sidney Coleman</li>
+<li> Gauge Theory and Variational Principles by David Bleecker</li>
+<li> Supersymmetry and Supergravity by Wess and Bagger</li> </ol>
+<br>
+<h5> Video lectures </h5> 
+<ol>
+<li> <a href = " https://video.ias.edu/pitp-2010 "> PiTP Princeton 2010</a> </li>
+</ol>
+<h5> Lighter reading (but still quite technical) </h5> 
+<ol> 
+<li> The Dawning of Gauge Theory by Lochlainn O'Raifeartaigh</li>
+</ol>

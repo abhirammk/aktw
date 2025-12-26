@@ -1,0 +1,33 @@
+---
+permalink: /teaching/
+title: Teaching
+---
+#### Current Courses
+
+None.
+
+#### Past Courses
+
+
+
+##### Mathematics (PhD Level)
+
+1. [Arithmetic geometry of Feynman integrals](FI24/FI24) (Max Planck Institute for Mathematics in the Sciences and U. Leipzig, WiSe 2024-25)
+1. [Computational Number Theory - I](CNT24/CNT24) (Max Planck Institute for Mathematics in the Sciences and U. Leipzig, WiSe 2024-25)
+
+##### Mathematics (Master's Level)
+
+1. [Automorphic forms and L-functions (Erwin Schroedinger Institute, Vienna)](MFLF24/MFLF24) (Spring 2024)
+
+##### Physics (PhD Level)
+
+1. [Advanced course on black holes (Hannover)](BH22/) (Summer 2022)
+
+#### Seminars 
+
+1. [Supersymmetric gauge theories - 2 (TU Wien)](SW/SW2) (Winter 2017-2018)
+1. [Supersymmetric gauge theories - 1 (TU Wien)](SW/SW1) (Summer 2017)
+
+
+
+
