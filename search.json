@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "index 2.html",
-    "href": "index 2.html",
-    "title": "Abhiram Kidambi",
-    "section": "",
-    "text": "My colleagues will classify me as either a mathematician or a mathematical physicist with an inability to be happy unless things are computed explicitly. Personally, I view myself as someone trying to make sense of things.\nI love computing and solving all kinds of mathematical problems, and am endlessly fascinated by how mathematics can describe how world around us works. You can learn more about my research here here.\nI am a member of the ERC funded MaScAmp team (studying mathematical structures in scattering amplitudes) at the AEI Potsdam and a member of the Mathematical Strucutres in Physics group, and an affiliate member of the Numerical Algebraic Geometry group at the Max Planck Institute for Mathematics in the Sciences.\nAny and all views expressed on this website are mine and mine alone.\nBest reachable via email: kidambi[AT]duck[dot]com\n\n(Un)interesting things about me\n\nExistentialism and comic nihilism are my dear friends.\nI am an adrenaline junkie. I love solo mountaineering and wilderness backpacking.\nI am particularly fascinated by (active) volcanoes and enjoy climbing and observing them.\nI enjoy playing football, long distance cycling, trail running, surfing and boxing.\nI also enjoy nature (landscape and wilderness) photography."
-  },
-  {
     "objectID": "teaching/FI24/FI24/index.html",
     "href": "teaching/FI24/FI24/index.html",
     "title": "Arithmetic Geometry of Feynman Integrals",
@@ -33,160 +26,6 @@
     "title": "Supersymmetric gauge theories - 2",
     "section": "",
     "text": "Organizational information\n\n\nEvery Wednesdays, starting 07-March-2017, at 16:00 Hrs at the Seminar room on the 10th Floor (Yellow tower, Freihaus, TU Wien, Wiedner Hauptstr. 8-10 1040 Vienna).  Please  contact me in case of further information or clarifications. \n\nTopics\n\n\n\nN = 1 dualities\n\n\nN = 2 dualities\n\n\nAGT conjecture\n\n\nArgyres-Douglas type CFT’s\n\n\nClass S theories and spectral networks\n\n\nWall crossing phenomena in various dimensions\n\n\nGeometric Langlands correspondence\n\n\n\n\nPre-requisites\n\nA good grasp of quantum field theory, differential geometry and supersymmetry is required for this course. It is beneficial to have attended the first half of the course i.e  supersymmetric gauge theories . \n\nList of talks/lectures (Tentative)\n\n\n\n07.03.2018: Organizational meeting\n\n\n14.03.2018: Seiberg dualities and stringy origin - Abhiram Kidambi - Topics: Moduli spaces of 4d \\(\\mathcal{N} = 1\\) theories, 3d reduction and “mirror symmetry”\n\n\n21.03.2018: Higgs branch of SCFT’s - Abhishek Chowdhury\n\n\n11.04.2018: Gaiotto duality and \\(N_f  = 4\\) theories - Abhishek Chowdhury  (Postponed due to scheduling complications)\n\n\n18.04.2018: Argyres-Douglas theory I - Christoph Roupec\n\n\n25.04.2018: Argyres-Douglas theory II - Andreas Banlaki\n\n\n02.05.2018: N = 2 IR dualities I - Abhishek Chowdhury\n\n\n09.05.2018: N = 2 IR dualities II - Marcus Sperling\n\n\n16.05.2018: N = 2 IR dualities III - Johanna Knapp\n\n\n23.05.2018: N = 2 IR dualities IV - Abhiram Kidambi  (Rescheduled from 06.06.2018)\n\n\n30.05.2018: AGT conjecture I - Timm wrase\n\n\n 07.06.2018: AGT conjecture II - Timm Wrase\n\n\n13.06.2018: Spectral networks and theories of class S - Abhiram Kidambi\n\n\n20.06.2018: Wall crossing - Abhiram Kidambi\n\n\n27.06.2018: Wall crossing - Abhiram Kidambi\n\n\n\nLiterature\n\n\n\nDualities\n\n\n Magnetic monopoles as gauge particles  (Original paper, there are many freely accessible books and articles which summarize this paper very well. Please get in touch if you want access to this paper.)\n\n N=2 dualities\n\n\n Localization Techniques in Quantum Field Theories (Chapter 12)\n\n\n Liouville Correlation Functions from Four-dimensional Gauge Theories(Original AGT paper, for review - see Ch. 12 above)\n\n\nIntegrability and Localization\n\n\n Lectures on Supersymmetric Yang-Mills Theory and Integrable Systems \n\n\n Notes on supersymmetric and holomorphic field theories in dimensions 2 and 4 \n\n\n Localization Techniques in Quantum Field Theories (Chapters 1 and 3)\n\n\n Supersymmetric Yang-Mills Systems And Integrable Systems\n\n\nArgyres-Douglas CFT’s\n\n\n N=2 dynamics for pedestrians\n\n\n General Argyres-Douglas Theory \n\n\nWall crossing\n\n\n PiTP lectures on BPS wall crossing in d=4, N=2 theories by Greg Moore\n\n\n ICTP lectures on instantons, wall-crossing and hypermultiplet moduli spaces\n\n\n Corfu lectures on wall-crossing, multi-centered black holes, and quiver invariants\n\n\nTrieste Lectures on Wall–Crossing Invariants \n\n\n Lectures on motivic Donaldson-Thomas invariants and wall-crossing formulas\n\n\nGeometric Langlands\n\n\n Electric-Magnetic Duality And The Geometric Langlands Program  (Original work, comprehensive)\n\n\n Geometric Langlands From Six Dimensions \n\n\nConformal Field Theory In Four And Six Dimensions \n\n\n Lectures on the Langlands Program and Conformal Field Theory \n\n\n Aswin Balasubramanian’s page on the Geometric Langlands Correspondence\n\n\n\nText books\n\n\n\nGeometry, Topology and Physics by Nakahara\n\n\nAspects of Symmetry by Sidney Coleman\n\n\nGauge Theory and Variational Principles by David Bleecker\n\n\nSupersymmetry and Supergravity by Wess and Bagger\n\n\n\n\nVideo lectures\n\n\n\n PiTP Princeton 2010\n\n\n\nLighter reading (but still quite technical)\n\n\n\nThe Dawning of Gauge Theory by Lochlainn O’Raifeartaigh"
-  },
-  {
-    "objectID": "talks/index 2.html",
-    "href": "talks/index 2.html",
-    "title": "Talks",
-    "section": "",
-    "text": "A partial list of talks is available here, arranged topic wise. A slightly more comprehensive, but potentially still-not-up-to-date, list of talks is listed here.\nTo see talks arranged topicwise, click here."
-  },
-  {
-    "objectID": "talks/index 2.html#upcoming-talks-and-lectures",
-    "href": "talks/index 2.html#upcoming-talks-and-lectures",
-    "title": "Talks",
-    "section": "Upcoming talks and lectures",
-    "text": "Upcoming talks and lectures\n\nComputing Sato-Tate groups and distributions (OIST Okinawa, Jan 2026, Remote)\nModularity theorems for certain non-hypergeometric motives (Potsdam, Jan 2026)"
-  },
-  {
-    "objectID": "talks/index 2.html#school-lectures",
-    "href": "talks/index 2.html#school-lectures",
-    "title": "Talks",
-    "section": "School Lectures",
-    "text": "School Lectures\n\nK3 surfaces in physics (ICTP Winter School on Number Theory and Physics, November 2025) [Video Recording]"
-  },
-  {
-    "objectID": "talks/index 2.html#math-seminars-and-talks",
-    "href": "talks/index 2.html#math-seminars-and-talks",
-    "title": "Talks",
-    "section": "Math Seminars and Talks",
-    "text": "Math Seminars and Talks\nIncludes workshop talks, conference talks and seminar invites.\n\nNumber theory/arithmetic geometry\n\nModularity theorems beyond elliptic curves (Tokyo, September 2025)\nIntroduction to Complex Multiplication (ICTS Bangalore, June 2025)\nArithmetic geometry of rational vertex operator algebras (Mainz, March 2025)\nComplex Multiplication: History, Theory, Computation and Application (Mainz, January 2025)\nThe Siegel-Weil theorem (Vienna, April 2024)\nRational point counts and Feynman integrals (Leipzig, March 2024)\nAlgebraic and arithmetic aspects of abelian varieties (Potsdam Math Dept, February 2024)\nIntroduction to the Birch & Swinnerton-Dyer Conjecture (Cambridge, October 2023)\nThe Katz-Sarnak Philisophy (Tokyo, April 2023)\nLectures on automorphic forms and L-functions (ICTS Bangalore, April 2023)\n\n\n\nComputational number theory/arithmetic geometry\n\nData driven discoveries in modern mathematics (Tokyo, September 2025)\nMurmurations (Leipzig, March 2024)\nNew trends in computational number theory (Eindhoven, December 2024)\nArithmetic statistics of weight 2 Hecke eigencusp forms (Lisbon, October 2024)\nComputational aspects of the Langlands program (Zurich, August 2024)\nHyperelliptic curve invariants, Siegel modular functions and applications (Cambridge, October 2023)\n\n\n\nAlgebraic geometry and representation theory\n\nSiegel and mock-modularity of enumerative invariants of K3 surfaces (Mainz, December 2024)\nNoether-Lefschetz theory and counting nodal curves on K3 surfaces (Stony Brook, November 2022)\n\nCalabi-Yau manifolds and sporadic groups ( University of Vienna and  IMSc Chennai, November 2017; Indian Institute of Science, December 2017)"
-  },
-  {
-    "objectID": "talks/index 2.html#math-colloquia",
-    "href": "talks/index 2.html#math-colloquia",
-    "title": "Talks",
-    "section": "Math Colloquia",
-    "text": "Math Colloquia\n\nAdvances in computer assisted number theory and arithmetic geometry (Reyjkavik, October 2024)\nData driven discoveries in modern mathematics (Tokyo, September 2025)\nNew advances in computer assisted number theory and arithmetic geometry (Potsdam, May 2024)"
-  },
-  {
-    "objectID": "talks/index 2.html#mathematical-physics-seminars-and-talks",
-    "href": "talks/index 2.html#mathematical-physics-seminars-and-talks",
-    "title": "Talks",
-    "section": "Mathematical Physics Seminars and Talks",
-    "text": "Mathematical Physics Seminars and Talks\nWorkshop talks and seminars in mathematical physics (mostly on the interface of number theory, arithmetic geometry and physics).\n\nEisenstein series\n\nReal analytic Eisenstein series in string theory and holography (GGI Florence, May 2024)\nEisenstein series over generic groups, and physical applications (Uni Vienna, April 2024)\nGeneralized Siegel-Weil theorem and holography (Lisbon, September 2021)\nGeneralized Siegel-Weil formula, 3d Gravity, & Chern-Simons invariants (Vienna, June 2021)\n\n\n\nAutomorphic forms\n\nHilbert modular forms, Niemeier Lattices and Octonionic black holes (Trieste, June 2022 + Cornell, November 2022)\nApplication of mock modular forms in string theory (Stony Brook, November 2022)\n\n\n\nPeriods and Zeta functions\n\nPeriods in quantum field theory (IISc Bangalore, June 2025 & Reykjavik, October 2025)\nModularity and L-values of BPS black holes from arithmetic statistics (AEI Potsdam, December 2024)\nArithmetic structures in physics (AEI Potsdam, February 2024 + CNRS Montpellier, March 2024)\nZeta and L-functions in physics (Lehigh, November 2022)\nArithmetic chaos, zeroes of \\(\\zeta(s)\\) and topological recursions (TU Wien, September 2019)\n\n\n\nBPS objects in string theory\n\nGravitational path integrals for N = 4 black holes (IISc Bangalore, April 2023)\nHilbert modular forms, Niemeier Lattices and Octonionic black holes (Tokyo, May 2022)\nOrigin of mock modular forms in supergravity (Poincare Inst., June 2022, DESY, May 2022 + Munich, Nov2021 + Nagoya October 2021)\nSupersymmetric localization and BPS state counting in SCFTs (IPMU, October 2020)\nMock modular black hole entropy from half BPS states (Video file) (Lisbon, September 2020)\n1/4 BPS black hole degeneracies from 1/2-BPS black hole degeneracies (Stanford, January 2020 + ICTP, January 2020 + Rutgers March 2020)\nNumber theory and geometry for black holes (Stanford University, Mar 2019)\nDMZ revisited: Comments on negative discriminat states and exact black hole degeneracies (University of Amsterdam, February 2019)\n Exact entropy and Rademacher series for orbifolded BPS black holes  @  Moonshine  (ESI Vienna, September 2018)\n\n\n\nVertex operator algebras\n\nRethinking complex multiplication (Bhubaneshwar, December 2025)\nWhen is a vertex operator algebra with an abelian variety target space rational? (ICTS Bangalore, June 2025)\nAn introduction to moonshine and vertex operator algebras (Hannover, April 2022)\nAn introduction to topological modular forms, N = 1 VOA’s and error correction codes, (Lisbon, Dec 2021 + Vienna, November 2021)\n\n\n\nMoonshine\n\n Introduction to moonshine (Istanbul, December 2020)\nThe Mathieu 24 group and the elliptic genus of superconformal field theory  @ Workshop on supersymmetric quantum field theories in the non-perturbative regime (GGI Florence, May 2018)\nBPS algebras and Moonshine (IST Lisbon , October 2018)\n\n\n\nWall crossing\n\nWall crossing and BPS jumping in string and supersymmetric field theories (TU Wien/Uni Wien, October 2019) 1. An introduction to wall crossing and Stokes phenomena (Hannover, April 2022) 1. \\(\\Gamma_0(N)\\), quantum black holes and wall crossing (IST Lisbon , October 2018) 1. Dyon wall crossing, automorphic forms and exact entropy of CHL black holes (MPP Munich , November 2018)"
-  },
-  {
-    "objectID": "talks/index 2.html#mathematical-physics-colloquia",
-    "href": "talks/index 2.html#mathematical-physics-colloquia",
-    "title": "Talks",
-    "section": "Mathematical Physics Colloquia ",
-    "text": "Mathematical Physics Colloquia \n\nBPS Partition Functions: From physics, to number theory, to geometry (Hannover, May 2022)\nAuguries of Physical Mathematics: What is quantum gravity trying to tell us? (TU Wien, November 2018)"
-  },
-  {
-    "objectID": "talkso/index 2.html",
-    "href": "talkso/index 2.html",
-    "title": "Talks",
-    "section": "",
-    "text": "A partial list of talks is available here, arranged temporally from most recent to oldest. A slightly more comprehensive, but still-not-up-to-date, list of talks is listed here.\nTo see talks arranged topicwise, click here."
-  },
-  {
-    "objectID": "talkso/index 2.html#colloquia",
-    "href": "talkso/index 2.html#colloquia",
-    "title": "Talks",
-    "section": "Colloquia",
-    "text": "Colloquia\n\nAdvances in computer assisted number theory and arithmetic geometry (Reyjkavik, October 2024)\nData driven discoveries in modern mathematics (Tokyo, September 2025)\nNew advances in computer assisted number theory and arithmetic geometry (Potsdam, May 2024)\nBPS Partition Functions: From physics, to number theory, to geometry (Hannover, May 2022)\nAuguries of Physical Mathematics: What is quantum gravity trying to tell us? (TU Wien, November 2018)"
-  },
-  {
-    "objectID": "projects/smfqseries/index.html",
-    "href": "projects/smfqseries/index.html",
-    "title": "Holomorphic Degree 2 Siegel Modular Forms",
-    "section": "",
-    "text": "Pari Scripts\nThese scripts were written by Abhiram Kidambi. Code to compute Fourier coefficients of holomorphic Siegel modular forms:   Download code .\nIf you use these scripts, please cite them as follows:\n@url{kidambi:2023SMF,\n    author = {Abhiram Kidambi},\n    lastchecked = {&lt;Date Last &gt;},\n    title = {Pari/GP Scripts for Holomorphic Degree 2 Siegel Modular Forms},\n    urldate = {2023}}\n\n\n\nInstalling Pari/GP\nTo install Pari/GP, have a look at https://pari.math.u-bordeaux.fr/download.html.\nOnce Pari/GP is installed, open a terminal and navigate to the folder in which the pari scripts are. Changing path to where the scripts are is not necessary to do this but will make your life easier\n    $ gp\nThis will enter the gp shell.\n\n\nUsing the pari scripts\nTo load the files,\n    $ \\r deg2smf.gp\n\nThis may need to be loaded twice depending on your terminal profile.\nNow, you may notice the following error upon load:\n    %13 = (k,ord)-  &gt;my(K=posdisc(ord),len=length(K),t=0);for(i=2,len,n=K[i][1];l=K[i][2];m=K[i][3];t=t+C(n,l,m,k)*q^(n)*y^(l)*p^(m));return(t)\n    Printing coefficients up to order lim for weight k=wt Siegel Eisenstein series\n    ***   at top-level: SiegelEisensteinCoeffs(wt,lim)\n    ***                 ^------------------------------\n    ***   in function SiegelEisensteinCoeffs:   my(K=posdisc(ord),len=length(K));for(i=2,len,x\n    ***                                             ^-----------------------------------------\n    ***   in function posdisc:  my(k=listcreate());for(a=0,n,for(b=0,n,for(c=0\n    ***                                             ^---------------------------\n     *** for: forbidden comparison t_POL , t_INT.\n    ***   Break loop: type 'break' to go back to GP prompt\n    break&gt;\nThis is because the weight of the Siegel Eisenstein series, as well as the limit to which the expansion should be done have not been defined. By limit here, we mean the following:\nEvery holomorphic Siegel modular form admits the following Fourier expansion:\n\\[ F(\\Omega) = \\sum_{W \\in M_{2\\times 2}^+} C(a,b,c) e^{2 \\pi i \\textrm{Tr}(W\\cdot \\Omega)},\\] where \\(M_{2\\times 2}^+\\) is the set of all \\(2\\times 2\\) positive definite matrices and $ W $ is of the form\n\\[ W = \\begin{pmatrix} a & \\frac b2 \\\\ \\frac b2 & c\\end{pmatrix}, \\ \\det W \\geq 0, \\ a,b,c \\geq 0~.\\]\nThe limit of the expansion is therefore the highest values of \\(a,b,c\\) we allow above such that the determinant and positive definiteness are met.\nIt is important to let \\(a,b,c\\) have the same maximum values, or else the \\(q\\) series gets messed up.\n\nRunning the code correctly\n    $ cd ~/PATH/TO/PARI/SCRIPTS \n    $ gp\n    $ wt = &lt;ENTER WEIGHT&gt;;\n    $ lim = &lt;ENTER LIM&gt;;\n    $ \\r deg2smf.gp\nYou may need to run the load command one more time to get a output.\n\nExample: Coefficients of \\(E_4(\\Omega)\\) up to order 3 in \\(q\\)-series:\n    $ cd ~/PATH/TO/PARI/SCRIPTS \n    $ gp\n    $ wt = 4;\n    $ lim = 3;\n    $ \\r deg2smf.gp\nWill generate:\n    Printing coefficients up to order 3 for weight k=4  Siegel Eisenstein series\n    [0, 0, 1]: 240\n    [0, 0, 2]: 2160\n    [0, 0, 3]: 6720\n    [1, 0, 0]: 240\n    [1, 0, 1]: 30240\n    [1, 0, 2]: 181440\n    [1, 0, 3]: 497280\n    [1, 1, 1]: 13440\n    [1, 1, 2]: 138240\n    [1, 1, 3]: 362880\n    [1, 2, 1]: 240\n    [1, 2, 2]: 30240\n    [1, 2, 3]: 181440\n    [1, 3, 3]: 13440\n    [2, 0, 0]: 2160\n    [2, 0, 1]: 181440\n    [2, 0, 2]: 1239840\n    [2, 0, 3]: 2782080\n    [2, 1, 1]: 138240\n    [2, 1, 2]: 967680\n    [2, 1, 3]: 2903040\n    [2, 2, 1]: 30240\n    [2, 2, 2]: 604800\n    [2, 2, 3]: 1814400\n    [2, 3, 2]: 138240\n    [2, 3, 3]: 967680\n    [3, 0, 0]: 6720\n    [3, 0, 1]: 497280\n    [3, 0, 2]: 2782080\n    [3, 0, 3]: 8467200\n    [3, 1, 1]: 362880\n    [3, 1, 2]: 2903040\n    [3, 1, 3]: 6531840\n    [3, 2, 1]: 181440\n    [3, 2, 2]: 1814400\n    [3, 2, 3]: 5987520\n    [3, 3, 1]: 13440\n    [3, 3, 2]: 967680\n    [3, 3, 3]: 3642240\n    Coefficients up to order 3 for weight k=4 Siegel Eisenstein series"
-  },
-  {
-    "objectID": "projects/index 2.html",
-    "href": "projects/index 2.html",
-    "title": "Projects & Code",
-    "section": "",
-    "text": "Current collaborations\n\nDatabe for Calabi-Yau Langlands: CYCluster. Zulip chat here. If you would like to submit code or contribute, send me an email!\nLMFBD\n\n\n\nCode\n\n\nCode for Elliptic Curves in Game Theory (w/ Elke Neuhaus and Irem Portakal)\n\n\n Pari/GP code to compute coefficients of holomorphic Siegel-Eisenstein series of degree \n\n\nPari/GP package to compute murmurations of elliptic curves\n\n\nCollection of useful(for me) bash scripts\n\n\n\n\nData\n\nThe generic J-invariant of an elliptic curve defined by interesection of two quadrics in \\(\\mathbb{P}^3\\)"
-  },
-  {
-    "objectID": "publications/index.html",
-    "href": "publications/index.html",
-    "title": "Scientific Work",
-    "section": "",
-    "text": "Publications and Preprints\n\nElliptic Curves in Game Theory (w/ E. Neuhaus and I. Portakal)  [arXiv] [pdf]\nNotes on Characterizations of 2d Rational SCFTs: Algebraicity, Mirror Symmetry and Complex Multiplication  (w/ M. Okada and T. Watari) [arXiv] [pdf] [Journal]\nGeneralized Narain Theories Decoded: Discussions on Eisenstein series, Characteristics, Orbifolds, Discriminants and Ensembles in any Dimension  (w/. M. Ashwinkumar, J. Leedom and M. Yamazaki)  [arXiv] [pdf] [To appear in ATMP]\nThe Gravitational Path Integral for \\(N=4\\) BPS Black Holes from Black Hole Microstate Counting  (w/. G. Cardoso, S. Nampuri, V. Reys, M. Rossello)  [arXiv] [pdf] [Journal] \nOctonionic Magical Supergravity, Niemeier Lattices, and Exceptional & Hilbert Modular Forms  (w. M. Gunaydin)  [arXiv] [pdf] [Journal] \nTowards Hodge Theoretic Characterizations of 2d Rational SCFTs  (w/ M. Okada and T. Watari)  [arXiv] [pdf] \nChern-Simons Invariants from Ensemble Averages  (w/. M. Ashwinkumar, M.Dodelson, J. Leedom and M. Yamazaki)  [arXiv] [pdf] [Journal] \nDyonic black hole degeneracies in \\(\\mathcal N=4\\) string theory from Dabholkar-Harvey degeneracies  (w/ A. Chowdhury, S. Murthy, V. Reys, T. Wrase)  [arXiv] [pdf] [Journal] \nHeterotic strings on \\(K3\\times T^2\\) and their dual Calabi-Yau threefolds  (w/ A. Banlaki, A. Chattopadhyaya, T. Schimannek, M. Schimpf)  [arXiv] [pdf] [Journal]\nOn Mathieu moonshine and Gromov-Witten invariants\n(w/ A. Banlaki, A. Chattopadhyaya, T. Schimannek, M. Schimpf)  [arXiv] [pdf] [Journal] \nCalabi-Yau manifolds and sporadic groups  (w/ A. Banlaki, A. Chowdhury, M. Schimpf, H. Skarke, T. Wrase)  [arXiv] [pdf] [Journal] \n\n\n\n\nCode Repositories\n\nElliptic Curves in Game Theory (w/ E. Neuhaus and I. Portakal)  [Code Repository] [PDF documentation]"
-  },
-  {
-    "objectID": "research/index.html",
-    "href": "research/index.html",
-    "title": "Research",
-    "section": "",
-    "text": "My PhD dissertation was titled Automorphic Forms in String Theory: From Moonshine to Wall Crossing.\nMy current research is in physical mathematics and lies on the interface of computation, number theory, algebraic geometry and applications to the natural and applied science, mostly physics (quantum field theories).\nThe topics I work with include the theory of motives, Hodge theory, zeta/L-functions, automorphic forms, Galois theory, arithmetic statistics, differential equations, special and transcendental functions. I adopt the following research philosophy:"
-  },
-  {
-    "objectID": "research/index.html#overview-of-interests",
-    "href": "research/index.html#overview-of-interests",
-    "title": "Research",
-    "section": "Overview of interests",
-    "text": "Overview of interests\nI focus on making connections between physics and mathematics explicit using a blend of rigorous mathematics, technical computational tools and physical insight/motivation.\n\nMathematics\n\nLanglands reciprocity beyond \\(GL_2\\) and Computational aspects of the Langlands program. This includes:\n\nComputing automorphic and motivic L functions\nArithmetic statistics and distributions of traces of Frobenius\nComputational methods for Calabi-Yau varieties and motives, and their arithmetic\nTheory of automorphic forms (Mock, Real Analytic, Siegel, Hilbert, Exceptional, Bianchi)\n\nTheory of complex multiplication of abelian varieties, its generalizations to algebraic varieties\n\n\n\nPhysics\n\nArithmetic and motivic structures of Feynman integrals and string amplitudes\nMathematical structure of BPS attractor varieties\nConstruction and characterization of rational vertex operator algebras with moduli spaces\nEnumerative geometry and phenomena like wall crossing, conifold transisitons, flops, jumping"
-  },
-  {
-    "objectID": "organization/index.html",
-    "href": "organization/index.html",
-    "title": "Organization",
-    "section": "",
-    "text": "As main (co)-organizer.\n\nWinter school on number theory and physics, ICTP Trieste, Nov 2025  (w/ A. Kleinschmidt, F. Rodriguez Villegas, A. Salerno, J. Voight)\nSchool on explicit arithmetic geometry, ICTP Trieste, July 2025  (w/ V. Golyshev, F. Rodriguez Villegas, D. Zagier)\nWorkshop on explicit arithmetic geometry, ICTP Trieste, July 2025  (w/ V. Golyshev, F. Rodriguez Villegas, D. Zagier)\nComputer Algebra, Number Theory and More, Leipzig, March 2025  (w/ M. Joswig, B. Sturmfels)\nMurmurations in arithmetic geometry and related topics, Simons Center, November 2024  (w/ K-H. Lee, Y-H. He, T. Oliver)\nSchool on number theory and physics, ICTP Trieste, June 2024  (w/ V. Golyshev, P. Putrov, F. Rodriguez Villegas)\nWorkshop on number theory and physics, ICTP Trieste, June 2024  (w/ V. Golyshev, P. Putrov, F. Rodriguez Villegas)\nGeometry and automorphicity of supersymmetric partitions, Kavli IPMU (U.Tokyo), February 2023  (w/ I. Coman and E. Nardoni)\nNumber theory, strings and quantum physics, Kavli IPMU (U.Tokyo), June 2021  (w/ M. Ashwinkumar and M. Yamazaki)"
-  },
-  {
-    "objectID": "organization/index 2.html",
-    "href": "organization/index 2.html",
-    "title": "Organization",
-    "section": "",
-    "text": "As main (co)-organizer.\n\nWinter school on number theory and physics, ICTP Trieste, Nov 2025  (w/ A. Kleinschmidt, F. Rodriguez Villegas, A. Salerno, J. Voight)\nSchool on explicit arithmetic geometry, ICTP Trieste, July 2025  (w/ V. Golyshev, F. Rodriguez Villegas, D. Zagier)\nWorkshop on explicit arithmetic geometry, ICTP Trieste, July 2025  (w/ V. Golyshev, F. Rodriguez Villegas, D. Zagier)\nComputer Algebra, Number Theory and More, Leipzig, March 2025  (w/ M. Joswig, B. Sturmfels)\nMurmurations in arithmetic geometry and related topics, Simons Center, November 2024  (w/ K-H. Lee, Y-H. He, T. Oliver)\nSchool on number theory and physics, ICTP Trieste, June 2024  (w/ V. Golyshev, P. Putrov, F. Rodriguez Villegas)\nWorkshop on number theory and physics, ICTP Trieste, June 2024  (w/ V. Golyshev, P. Putrov, F. Rodriguez Villegas)\nGeometry and automorphicity of supersymmetric partitions, Kavli IPMU (U.Tokyo), February 2023  (w/ I. Coman and E. Nardoni)\nNumber theory, strings and quantum physics, Kavli IPMU (U.Tokyo), June 2021  (w/ M. Ashwinkumar and M. Yamazaki)"
-  },
-  {
-    "objectID": "research/index 2.html",
-    "href": "research/index 2.html",
-    "title": "Research",
-    "section": "",
-    "text": "My PhD dissertation was titled Automorphic Forms in String Theory: From Moonshine to Wall Crossing.\nMy current research is in physical mathematics and lies on the interface of computation, number theory, algebraic geometry and applications to the natural and applied science, mostly physics (quantum field theories).\nThe topics I work with include the theory of motives, Hodge theory, zeta/L-functions, automorphic forms, Galois theory, arithmetic statistics, differential equations, special and transcendental functions. I adopt the following research philosophy:"
-  },
-  {
-    "objectID": "research/index 2.html#overview-of-interests",
-    "href": "research/index 2.html#overview-of-interests",
-    "title": "Research",
-    "section": "Overview of interests",
-    "text": "Overview of interests\nI focus on making connections between physics and mathematics explicit using a blend of rigorous mathematics, technical computational tools and physical insight/motivation.\n\nMathematics\n\nLanglands reciprocity beyond \\(GL_2\\) and Computational aspects of the Langlands program. This includes:\n\nComputing automorphic and motivic L functions\nArithmetic statistics and distributions of traces of Frobenius\nComputational methods for Calabi-Yau varieties and motives, and their arithmetic\nTheory of automorphic forms (Mock, Real Analytic, Siegel, Hilbert, Exceptional, Bianchi)\n\nTheory of complex multiplication of abelian varieties, its generalizations to algebraic varieties\n\n\n\nPhysics\n\nArithmetic and motivic structures of Feynman integrals and string amplitudes\nMathematical structure of BPS attractor varieties\nConstruction and characterization of rational vertex operator algebras with moduli spaces\nEnumerative geometry and phenomena like wall crossing, conifold transisitons, flops, jumping"
-  },
-  {
-    "objectID": "publications/index 2.html",
-    "href": "publications/index 2.html",
-    "title": "Scientific Work",
-    "section": "",
-    "text": "Publications and Preprints\n\nElliptic Curves in Game Theory (w/ E. Neuhaus and I. Portakal)  [arXiv] [pdf]\nNotes on Characterizations of 2d Rational SCFTs: Algebraicity, Mirror Symmetry and Complex Multiplication  (w/ M. Okada and T. Watari) [arXiv] [pdf] [Journal]\nGeneralized Narain Theories Decoded: Discussions on Eisenstein series, Characteristics, Orbifolds, Discriminants and Ensembles in any Dimension  (w/. M. Ashwinkumar, J. Leedom and M. Yamazaki)  [arXiv] [pdf] [To appear in ATMP]\nThe Gravitational Path Integral for \\(N=4\\) BPS Black Holes from Black Hole Microstate Counting  (w/. G. Cardoso, S. Nampuri, V. Reys, M. Rossello)  [arXiv] [pdf] [Journal] \nOctonionic Magical Supergravity, Niemeier Lattices, and Exceptional & Hilbert Modular Forms  (w. M. Gunaydin)  [arXiv] [pdf] [Journal] \nTowards Hodge Theoretic Characterizations of 2d Rational SCFTs  (w/ M. Okada and T. Watari)  [arXiv] [pdf] \nChern-Simons Invariants from Ensemble Averages  (w/. M. Ashwinkumar, M.Dodelson, J. Leedom and M. Yamazaki)  [arXiv] [pdf] [Journal] \nDyonic black hole degeneracies in \\(\\mathcal N=4\\) string theory from Dabholkar-Harvey degeneracies  (w/ A. Chowdhury, S. Murthy, V. Reys, T. Wrase)  [arXiv] [pdf] [Journal] \nHeterotic strings on \\(K3\\times T^2\\) and their dual Calabi-Yau threefolds  (w/ A. Banlaki, A. Chattopadhyaya, T. Schimannek, M. Schimpf)  [arXiv] [pdf] [Journal]\nOn Mathieu moonshine and Gromov-Witten invariants\n(w/ A. Banlaki, A. Chattopadhyaya, T. Schimannek, M. Schimpf)  [arXiv] [pdf] [Journal] \nCalabi-Yau manifolds and sporadic groups  (w/ A. Banlaki, A. Chowdhury, M. Schimpf, H. Skarke, T. Wrase)  [arXiv] [pdf] [Journal] \n\n\n\n\nCode Repositories\n\nElliptic Curves in Game Theory (w/ E. Neuhaus and I. Portakal)  [Code Repository] [PDF documentation]"
-  },
-  {
-    "objectID": "projects/index.html",
-    "href": "projects/index.html",
-    "title": "Projects & Code",
-    "section": "",
-    "text": "Current collaborations\n\nDatabe for Calabi-Yau Langlands: CYCluster. Zulip chat here. If you would like to submit code or contribute, send me an email!\nLMFBD\n\n\n\nCode\n\n\nCode for Elliptic Curves in Game Theory (w/ Elke Neuhaus and Irem Portakal)\n\n\n Pari/GP code to compute coefficients of holomorphic Siegel-Eisenstein series of degree \n\n\nPari/GP package to compute murmurations of elliptic curves\n\n\nCollection of useful(for me) bash scripts\n\n\n\n\nData\n\nThe generic J-invariant of an elliptic curve defined by interesection of two quadrics in \\(\\mathbb{P}^3\\)"
-  },
-  {
-    "objectID": "talkso/index.html",
-    "href": "talkso/index.html",
-    "title": "Talks",
-    "section": "",
-    "text": "A partial list of talks is available here, arranged temporally from most recent to oldest. A slightly more comprehensive, but still-not-up-to-date, list of talks is listed here.\nTo see talks arranged topicwise, click here."
-  },
-  {
-    "objectID": "talkso/index.html#colloquia",
-    "href": "talkso/index.html#colloquia",
-    "title": "Talks",
-    "section": "Colloquia",
-    "text": "Colloquia\n\nAdvances in computer assisted number theory and arithmetic geometry (Reyjkavik, October 2024)\nData driven discoveries in modern mathematics (Tokyo, September 2025)\nNew advances in computer assisted number theory and arithmetic geometry (Potsdam, May 2024)\nBPS Partition Functions: From physics, to number theory, to geometry (Hannover, May 2022)\nAuguries of Physical Mathematics: What is quantum gravity trying to tell us? (TU Wien, November 2018)"
   },
   {
     "objectID": "talks/index.html",
@@ -238,6 +77,62 @@
     "text": "Mathematical Physics Colloquia \n\nBPS Partition Functions: From physics, to number theory, to geometry (Hannover, May 2022)\nAuguries of Physical Mathematics: What is quantum gravity trying to tell us? (TU Wien, November 2018)"
   },
   {
+    "objectID": "projects/smfqseries/index.html",
+    "href": "projects/smfqseries/index.html",
+    "title": "Holomorphic Degree 2 Siegel Modular Forms",
+    "section": "",
+    "text": "Pari Scripts\nThese scripts were written by Abhiram Kidambi. Code to compute Fourier coefficients of holomorphic Siegel modular forms:   Download code .\nIf you use these scripts, please cite them as follows:\n@url{kidambi:2023SMF,\n    author = {Abhiram Kidambi},\n    lastchecked = {&lt;Date Last &gt;},\n    title = {Pari/GP Scripts for Holomorphic Degree 2 Siegel Modular Forms},\n    urldate = {2023}}\n\n\n\nInstalling Pari/GP\nTo install Pari/GP, have a look at https://pari.math.u-bordeaux.fr/download.html.\nOnce Pari/GP is installed, open a terminal and navigate to the folder in which the pari scripts are. Changing path to where the scripts are is not necessary to do this but will make your life easier\n    $ gp\nThis will enter the gp shell.\n\n\nUsing the pari scripts\nTo load the files,\n    $ \\r deg2smf.gp\n\nThis may need to be loaded twice depending on your terminal profile.\nNow, you may notice the following error upon load:\n    %13 = (k,ord)-  &gt;my(K=posdisc(ord),len=length(K),t=0);for(i=2,len,n=K[i][1];l=K[i][2];m=K[i][3];t=t+C(n,l,m,k)*q^(n)*y^(l)*p^(m));return(t)\n    Printing coefficients up to order lim for weight k=wt Siegel Eisenstein series\n    ***   at top-level: SiegelEisensteinCoeffs(wt,lim)\n    ***                 ^------------------------------\n    ***   in function SiegelEisensteinCoeffs:   my(K=posdisc(ord),len=length(K));for(i=2,len,x\n    ***                                             ^-----------------------------------------\n    ***   in function posdisc:  my(k=listcreate());for(a=0,n,for(b=0,n,for(c=0\n    ***                                             ^---------------------------\n     *** for: forbidden comparison t_POL , t_INT.\n    ***   Break loop: type 'break' to go back to GP prompt\n    break&gt;\nThis is because the weight of the Siegel Eisenstein series, as well as the limit to which the expansion should be done have not been defined. By limit here, we mean the following:\nEvery holomorphic Siegel modular form admits the following Fourier expansion:\n\\[ F(\\Omega) = \\sum_{W \\in M_{2\\times 2}^+} C(a,b,c) e^{2 \\pi i \\textrm{Tr}(W\\cdot \\Omega)},\\] where \\(M_{2\\times 2}^+\\) is the set of all \\(2\\times 2\\) positive definite matrices and $ W $ is of the form\n\\[ W = \\begin{pmatrix} a & \\frac b2 \\\\ \\frac b2 & c\\end{pmatrix}, \\ \\det W \\geq 0, \\ a,b,c \\geq 0~.\\]\nThe limit of the expansion is therefore the highest values of \\(a,b,c\\) we allow above such that the determinant and positive definiteness are met.\nIt is important to let \\(a,b,c\\) have the same maximum values, or else the \\(q\\) series gets messed up.\n\nRunning the code correctly\n    $ cd ~/PATH/TO/PARI/SCRIPTS \n    $ gp\n    $ wt = &lt;ENTER WEIGHT&gt;;\n    $ lim = &lt;ENTER LIM&gt;;\n    $ \\r deg2smf.gp\nYou may need to run the load command one more time to get a output.\n\nExample: Coefficients of \\(E_4(\\Omega)\\) up to order 3 in \\(q\\)-series:\n    $ cd ~/PATH/TO/PARI/SCRIPTS \n    $ gp\n    $ wt = 4;\n    $ lim = 3;\n    $ \\r deg2smf.gp\nWill generate:\n    Printing coefficients up to order 3 for weight k=4  Siegel Eisenstein series\n    [0, 0, 1]: 240\n    [0, 0, 2]: 2160\n    [0, 0, 3]: 6720\n    [1, 0, 0]: 240\n    [1, 0, 1]: 30240\n    [1, 0, 2]: 181440\n    [1, 0, 3]: 497280\n    [1, 1, 1]: 13440\n    [1, 1, 2]: 138240\n    [1, 1, 3]: 362880\n    [1, 2, 1]: 240\n    [1, 2, 2]: 30240\n    [1, 2, 3]: 181440\n    [1, 3, 3]: 13440\n    [2, 0, 0]: 2160\n    [2, 0, 1]: 181440\n    [2, 0, 2]: 1239840\n    [2, 0, 3]: 2782080\n    [2, 1, 1]: 138240\n    [2, 1, 2]: 967680\n    [2, 1, 3]: 2903040\n    [2, 2, 1]: 30240\n    [2, 2, 2]: 604800\n    [2, 2, 3]: 1814400\n    [2, 3, 2]: 138240\n    [2, 3, 3]: 967680\n    [3, 0, 0]: 6720\n    [3, 0, 1]: 497280\n    [3, 0, 2]: 2782080\n    [3, 0, 3]: 8467200\n    [3, 1, 1]: 362880\n    [3, 1, 2]: 2903040\n    [3, 1, 3]: 6531840\n    [3, 2, 1]: 181440\n    [3, 2, 2]: 1814400\n    [3, 2, 3]: 5987520\n    [3, 3, 1]: 13440\n    [3, 3, 2]: 967680\n    [3, 3, 3]: 3642240\n    Coefficients up to order 3 for weight k=4 Siegel Eisenstein series"
+  },
+  {
+    "objectID": "publications/index.html",
+    "href": "publications/index.html",
+    "title": "Scientific Work",
+    "section": "",
+    "text": "Publications and Preprints\n\nElliptic Curves in Game Theory (w/ E. Neuhaus and I. Portakal)  [arXiv] [pdf]\nNotes on Characterizations of 2d Rational SCFTs: Algebraicity, Mirror Symmetry and Complex Multiplication  (w/ M. Okada and T. Watari) [arXiv] [pdf] [Journal]\nGeneralized Narain Theories Decoded: Discussions on Eisenstein series, Characteristics, Orbifolds, Discriminants and Ensembles in any Dimension  (w/. M. Ashwinkumar, J. Leedom and M. Yamazaki)  [arXiv] [pdf] [To appear in ATMP]\nThe Gravitational Path Integral for \\(N=4\\) BPS Black Holes from Black Hole Microstate Counting  (w/. G. Cardoso, S. Nampuri, V. Reys, M. Rossello)  [arXiv] [pdf] [Journal] \nOctonionic Magical Supergravity, Niemeier Lattices, and Exceptional & Hilbert Modular Forms  (w. M. Gunaydin)  [arXiv] [pdf] [Journal] \nTowards Hodge Theoretic Characterizations of 2d Rational SCFTs  (w/ M. Okada and T. Watari)  [arXiv] [pdf] \nChern-Simons Invariants from Ensemble Averages  (w/. M. Ashwinkumar, M.Dodelson, J. Leedom and M. Yamazaki)  [arXiv] [pdf] [Journal] \nDyonic black hole degeneracies in \\(\\mathcal N=4\\) string theory from Dabholkar-Harvey degeneracies  (w/ A. Chowdhury, S. Murthy, V. Reys, T. Wrase)  [arXiv] [pdf] [Journal] \nHeterotic strings on \\(K3\\times T^2\\) and their dual Calabi-Yau threefolds  (w/ A. Banlaki, A. Chattopadhyaya, T. Schimannek, M. Schimpf)  [arXiv] [pdf] [Journal]\nOn Mathieu moonshine and Gromov-Witten invariants\n(w/ A. Banlaki, A. Chattopadhyaya, T. Schimannek, M. Schimpf)  [arXiv] [pdf] [Journal] \nCalabi-Yau manifolds and sporadic groups  (w/ A. Banlaki, A. Chowdhury, M. Schimpf, H. Skarke, T. Wrase)  [arXiv] [pdf] [Journal] \n\n\n\n\nCode Repositories\n\nElliptic Curves in Game Theory (w/ E. Neuhaus and I. Portakal)  [Code Repository] [PDF documentation]"
+  },
+  {
+    "objectID": "organization/index.html",
+    "href": "organization/index.html",
+    "title": "Organization",
+    "section": "",
+    "text": "As main (co)-organizer.\n\nWinter school on number theory and physics, ICTP Trieste, Nov 2025  (w/ A. Kleinschmidt, F. Rodriguez Villegas, A. Salerno, J. Voight)\nSchool on explicit arithmetic geometry, ICTP Trieste, July 2025  (w/ V. Golyshev, F. Rodriguez Villegas, D. Zagier)\nWorkshop on explicit arithmetic geometry, ICTP Trieste, July 2025  (w/ V. Golyshev, F. Rodriguez Villegas, D. Zagier)\nComputer Algebra, Number Theory and More, Leipzig, March 2025  (w/ M. Joswig, B. Sturmfels)\nMurmurations in arithmetic geometry and related topics, Simons Center, November 2024  (w/ K-H. Lee, Y-H. He, T. Oliver)\nSchool on number theory and physics, ICTP Trieste, June 2024  (w/ V. Golyshev, P. Putrov, F. Rodriguez Villegas)\nWorkshop on number theory and physics, ICTP Trieste, June 2024  (w/ V. Golyshev, P. Putrov, F. Rodriguez Villegas)\nGeometry and automorphicity of supersymmetric partitions, Kavli IPMU (U.Tokyo), February 2023  (w/ I. Coman and E. Nardoni)\nNumber theory, strings and quantum physics, Kavli IPMU (U.Tokyo), June 2021  (w/ M. Ashwinkumar and M. Yamazaki)"
+  },
+  {
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Research",
+    "section": "",
+    "text": "My PhD dissertation was titled Automorphic Forms in String Theory: From Moonshine to Wall Crossing.\nMy current research is in physical mathematics and lies on the interface of computation, number theory, algebraic geometry and applications to the natural and applied science, mostly physics (quantum field theories).\nThe topics I work with include the theory of motives, Hodge theory, zeta/L-functions, automorphic forms, Galois theory, arithmetic statistics, differential equations, special and transcendental functions. I adopt the following research philosophy:"
+  },
+  {
+    "objectID": "research/index.html#overview-of-interests",
+    "href": "research/index.html#overview-of-interests",
+    "title": "Research",
+    "section": "Overview of interests",
+    "text": "Overview of interests\nI focus on making connections between physics and mathematics explicit using a blend of rigorous mathematics, technical computational tools and physical insight/motivation.\n\nMathematics\n\nLanglands reciprocity beyond \\(GL_2\\) and Computational aspects of the Langlands program. This includes:\n\nComputing automorphic and motivic L functions\nArithmetic statistics and distributions of traces of Frobenius\nComputational methods for Calabi-Yau varieties and motives, and their arithmetic\nTheory of automorphic forms (Mock, Real Analytic, Siegel, Hilbert, Exceptional, Bianchi)\n\nTheory of complex multiplication of abelian varieties, its generalizations to algebraic varieties\n\n\n\nPhysics\n\nArithmetic and motivic structures of Feynman integrals and string amplitudes\nMathematical structure of BPS attractor varieties\nConstruction and characterization of rational vertex operator algebras with moduli spaces\nEnumerative geometry and phenomena like wall crossing, conifold transisitons, flops, jumping"
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects & Code",
+    "section": "",
+    "text": "Current collaborations\n\nDatabe for Calabi-Yau Langlands: CYCluster. Zulip chat here. If you would like to submit code or contribute, send me an email!\nLMFBD\n\n\n\nCode\n\n\nCode for Elliptic Curves in Game Theory (w/ Elke Neuhaus and Irem Portakal)\n\n\n Pari/GP code to compute coefficients of holomorphic Siegel-Eisenstein series of degree \n\n\nPari/GP package to compute murmurations of elliptic curves\n\n\nCollection of useful(for me) bash scripts\n\n\n\n\nData\n\nThe generic J-invariant of an elliptic curve defined by interesection of two quadrics in \\(\\mathbb{P}^3\\)"
+  },
+  {
+    "objectID": "talkso/index.html",
+    "href": "talkso/index.html",
+    "title": "Talks",
+    "section": "",
+    "text": "A partial list of talks is available here, arranged temporally from most recent to oldest. A slightly more comprehensive, but still-not-up-to-date, list of talks is listed here.\nTo see talks arranged topicwise, click here."
+  },
+  {
+    "objectID": "talkso/index.html#colloquia",
+    "href": "talkso/index.html#colloquia",
+    "title": "Talks",
+    "section": "Colloquia",
+    "text": "Colloquia\n\nAdvances in computer assisted number theory and arithmetic geometry (Reyjkavik, October 2024)\nData driven discoveries in modern mathematics (Tokyo, September 2025)\nNew advances in computer assisted number theory and arithmetic geometry (Potsdam, May 2024)\nBPS Partition Functions: From physics, to number theory, to geometry (Hannover, May 2022)\nAuguries of Physical Mathematics: What is quantum gravity trying to tell us? (TU Wien, November 2018)"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Abhiram Kidambi",
@@ -261,13 +156,6 @@
   {
     "objectID": "teaching/index.html",
     "href": "teaching/index.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "Current Courses\nNone.\n\n\nPast Courses\n\nMathematics (PhD Level)\n\nArithmetic geometry of Feynman integrals (Max Planck Institute for Mathematics in the Sciences and U. Leipzig, WiSe 2024-25)\nComputational Number Theory - I (Max Planck Institute for Mathematics in the Sciences and U. Leipzig, WiSe 2024-25)\n\n\n\nMathematics (Master’s Level)\n\nAutomorphic forms and L-functions (Erwin Schroedinger Institute, Vienna) (Spring 2024)\n\n\n\nPhysics (PhD Level)\n\nAdvanced course on black holes (Hannover) (Summer 2022)\n\n\n\n\nSeminars\n\nSupersymmetric gauge theories - 2 (TU Wien) (Winter 2017-2018)\nSupersymmetric gauge theories - 1 (TU Wien) (Summer 2017)"
-  },
-  {
-    "objectID": "teaching/index 2.html",
-    "href": "teaching/index 2.html",
     "title": "Teaching",
     "section": "",
     "text": "Current Courses\nNone.\n\n\nPast Courses\n\nMathematics (PhD Level)\n\nArithmetic geometry of Feynman integrals (Max Planck Institute for Mathematics in the Sciences and U. Leipzig, WiSe 2024-25)\nComputational Number Theory - I (Max Planck Institute for Mathematics in the Sciences and U. Leipzig, WiSe 2024-25)\n\n\n\nMathematics (Master’s Level)\n\nAutomorphic forms and L-functions (Erwin Schroedinger Institute, Vienna) (Spring 2024)\n\n\n\nPhysics (PhD Level)\n\nAdvanced course on black holes (Hannover) (Summer 2022)\n\n\n\n\nSeminars\n\nSupersymmetric gauge theories - 2 (TU Wien) (Winter 2017-2018)\nSupersymmetric gauge theories - 1 (TU Wien) (Summer 2017)"
