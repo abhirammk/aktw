@@ -8,7 +8,7 @@ format:
     css: styles.css
 ---
 
-My colleagues will classify me as either a mathematician or a mathematical physicist with an inability to be happy unless things are computed explicitly. Personally, I view myself as someone trying to make sense of things.
+My colleagues will classify me as either a mathematician or a mathematical physicist with an inability to be happy unless things are computed explicitly. Personally, I view myself as someone trying to make sense of things. 
 
 I love computing and solving all kinds of mathematical problems, and am endlessly fascinated by how mathematics can describe how world around us works. You can learn more about my research here [here](research/).
 
